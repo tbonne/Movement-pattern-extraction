@@ -50,7 +50,7 @@ public class ParameterLoader extends JFrame{
 	static SimpleFeature point_GM=null;
 
 	public ParameterLoader() {
-		setTitle("Group movement pattern extraction");
+		setTitle("Group movement-pattern-extraction tool");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		//setLayout(new GridLayout(9,1,2,2));
 		
